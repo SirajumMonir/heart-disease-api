@@ -11,3 +11,6 @@ A machine learning API built with FastAPI and Dockerized for deployment on Rende
 ```bash
 docker-compose build
 docker-compose up
+## Live Deployment
+- **Live Render URL:** https://heart-disease-api-vg97.onrender.com
+- **Swagger UI Docs:** https://heart-disease-api-vg97.onrender.com/docs
